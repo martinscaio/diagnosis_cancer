@@ -3,8 +3,6 @@ library(tidymodels)
 library(ranger)
 
 
-usethis::use_github()
-
 # Algoritmo de Classificação que irá prever o diagnóstico de Câncer
 
 # Leitura e Analise dos dados(falta colocar os graficos e a exploração de dados)
